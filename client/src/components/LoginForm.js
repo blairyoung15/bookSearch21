@@ -90,3 +90,6 @@ const LoginForm = () => {
 };
 
 export default LoginForm;
+
+
+// `LoginForm.js`: Replace the `loginUser()` functionality imported from the `API` file with the `LOGIN_USER` mutation functionality. Define and export the `LOGIN_USER` mutation in a new file at `/client/src/utils/mutations.js`.

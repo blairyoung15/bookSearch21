@@ -17,5 +17,13 @@
   },
   "dependencies": {
     "apollo-server-express": "^2.15.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blairyoung15/bookSearch21.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blairyoung15/bookSearch21/issues"
+  },
+  "homepage": "https://github.com/blairyoung15/bookSearch21#readme"
 }

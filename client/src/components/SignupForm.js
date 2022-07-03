@@ -108,3 +108,5 @@ const SignupForm = () => {
 };
 
 export default SignupForm;
+
+// `SignupForm.js`: Replace the `addUser()` functionality imported from the `API` file with the `ADD_USER` mutation functionality. Define and export the `ADD_USER` mutation in a new file at `/client/src/utils/mutations.js`.

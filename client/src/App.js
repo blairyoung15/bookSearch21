@@ -20,3 +20,6 @@ function App() {
 }
 
 export default App;
+
+
+// `App.js`: Using `ApolloClient`, `InMemoryCache`, `createHttpLink`, and `setContext` from the Apollo Client library, create an Apollo Provider to make every request work with the Apollo server.

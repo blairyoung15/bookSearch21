@@ -37,3 +37,6 @@ module.exports = {
     return jwt.sign({ data: payload }, secret, { expiresIn: expiration });
   },
 };
+
+
+//Update the auth middleware function to work with the GraphQL API.

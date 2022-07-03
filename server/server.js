@@ -19,3 +19,6 @@ app.use(routes);
 db.once('open', () => {
   app.listen(PORT, () => console.log(`🌍 Now listening on localhost:${PORT}`));
 });
+
+
+//Implement the Apollo Server and apply it to the Express server as middleware.
